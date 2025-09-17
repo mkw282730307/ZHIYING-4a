@@ -1,0 +1,100 @@
+
+[
+  {
+    "_id": "user_001",
+    "nickname": "二次元收藏家",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=400&h=400&fit=crop",
+    "gender": "男",
+    "birthday": "1995-08-15",
+    "bio": "资深动漫爱好者，专注收藏各类手办和周边。喜欢初音未来、鬼灭之刃等作品。",
+    "region": "上海",
+    "interests": ["手办收藏", "动漫周边", "初音未来", "鬼灭之刃"],
+    "createdAt": "2023-09-19T12:00:00.000Z",
+    "updatedAt": "2023-09-19T12:00:00.000Z"
+  },
+  {
+    "_id": "user_002",
+    "nickname": "萌妹子",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400&h=400&fit=crop",
+    "gender": "女",
+    "birthday": "1998-03-22",
+    "bio": "喜欢可爱的一切！原神和间谍过家家的忠实粉丝，最爱阿尼亚和胡桃。",
+    "region": "北京",
+    "interests": ["原神", "间谍过家家", "毛绒玩具", "可爱周边"],
+    "createdAt": "2023-09-18T10:30:00.000Z",
+    "updatedAt": "2023-09-18T10:30:00.000Z"
+  },
+  {
+    "_id": "user_003",
+    "nickname": "EVA死忠粉",
+    "avatar": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=400&h=400&fit=crop",
+    "gender": "男",
+    "birthday": "1992-11-08",
+    "bio": "从1995年开始追EVA，收藏了所有相关周边。明日香是我永远的女神！",
+    "region": "广州",
+    "interests": ["EVA", "新世纪福音战士", "明日香", "经典动漫"],
+    "createdAt": "2023-09-17T08:15:00.000Z",
+    "updatedAt": "2023-09-17T08:15:00.000Z"
+  },
+  {
+    "_id": "user_004",
+    "nickname": "海贼迷路飞",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "gender": "男",
+    "birthday": "1990-05-10",
+    "bio": "要成为海贼王的男人！收集各种海贼王周边，特别是路飞的商品。",
+    "region": "深圳",
+    "interests": ["海贼王", "路飞", "橡胶果实", "草帽海贼团"],
+    "createdAt": "2023-09-16T14:20:00.000Z",
+    "updatedAt": "2023-09-16T14:20:00.000Z"
+  },
+  {
+    "_id": "user_005",
+    "nickname": "咒术师五条悟",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
+    "gender": "女",
+    "birthday": "1997-12-05",
+    "bio": "咒术回战狂热粉，五条悟的终极迷妹！收集各种五条悟周边和吧唧。",
+    "region": "成都",
+    "interests": ["咒术回战", "五条悟", "吧唧收藏", "动漫徽章"],
+    "createdAt": "2023-09-15T16:45:00.000Z",
+    "updatedAt": "2023-09-15T16:45:00.000Z"
+  },
+  {
+    "_id": "user_006",
+    "nickname": "进击的利威尔",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
+    "gender": "男",
+    "birthday": "1993-07-18",
+    "bio": "兵长一米六！利威尔兵长的忠实粉丝，收集各种进击的巨人周边。",
+    "region": "杭州",
+    "interests": ["进击的巨人", "利威尔", "兵长", "调查兵团"],
+    "createdAt": "2023-09-14T09:30:00.000Z",
+    "updatedAt": "2023-09-14T09:30:00.000Z"
+  },
+  {
+    "_id": "user_007",
+    "nickname": "初音公主",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop",
+    "gender": "女",
+    "birthday": "1996-09-30",
+    "bio": "初音未来的超级粉丝！miku miku~ 喜欢收集各种初音的手办和周边。",
+    "region": "南京",
+    "interests": ["初音未来", "VOCALOID", "手办收藏", "演唱会"],
+    "createdAt": "2023-09-13T11:00:00.000Z",
+    "updatedAt": "2023-09-13T11:00:00.000Z"
+  },
+  {
+    "_id": "user_008",
+    "nickname": "动漫达人",
+    "avatar": "https://images.unsplash.com/photo-1552058544-f2b08422138a?w=400&h=400&fit=crop",
+    "gender": "男",
+    "birthday": "1994-04-25",
+    "bio": "全能动漫爱好者，什么番都看，什么周边都收。欢迎交流动漫心得！",
+    "region": "武汉",
+    "interests": ["动漫综合", "手办", "模型", "周边收藏"],
+    "createdAt": "2023-09-12T13:15:00.000Z",
+    "updatedAt": "2023-09-12T13:15:00.000Z"
+  }
+]
+  

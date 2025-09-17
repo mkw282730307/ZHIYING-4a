@@ -1,0 +1,74 @@
+
+[
+  {
+    "_id": "collect_001",
+    "user_id": "user_001",
+    "goods_id": "goods_001",
+    "created_at": 1695206400000,
+    "updatedAt": 1695206400000
+  },
+  {
+    "_id": "collect_002",
+    "user_id": "user_001",
+    "goods_id": "goods_003",
+    "created_at": 1695206500000,
+    "updatedAt": 1695206500000
+  },
+  {
+    "_id": "collect_003",
+    "user_id": "user_002",
+    "goods_id": "goods_002",
+    "created_at": 1695120000000,
+    "updatedAt": 1695120000000
+  },
+  {
+    "_id": "collect_004",
+    "user_id": "user_003",
+    "goods_id": "goods_007",
+    "created_at": 1694688000000,
+    "updatedAt": 1694688000000
+  },
+  {
+    "_id": "collect_005",
+    "user_id": "user_004",
+    "goods_id": "goods_005",
+    "created_at": 1694781600000,
+    "updatedAt": 1694781600000
+  },
+  {
+    "_id": "collect_006",
+    "user_id": "user_005",
+    "goods_id": "goods_008",
+    "created_at": 1694522400000,
+    "updatedAt": 1694522400000
+  },
+  {
+    "_id": "collect_007",
+    "user_id": "user_006",
+    "goods_id": "goods_004",
+    "created_at": 1694868000000,
+    "updatedAt": 1694868000000
+  },
+  {
+    "_id": "collect_008",
+    "user_id": "user_007",
+    "goods_id": "goods_006",
+    "created_at": 1694695200000,
+    "updatedAt": 1694695200000
+  },
+  {
+    "_id": "collect_009",
+    "user_id": "user_008",
+    "goods_id": "goods_001",
+    "created_at": 1695207000000,
+    "updatedAt": 1695207000000
+  },
+  {
+    "_id": "collect_010",
+    "user_id": "user_009",
+    "goods_id": "goods_002",
+    "created_at": 1695123600000,
+    "updatedAt": 1695123600000
+  }
+]
+  

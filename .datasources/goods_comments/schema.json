@@ -1,0 +1,33 @@
+
+{
+  "name": "goods_comments",
+  "title": "商品评论",
+  "schemas": [
+    {
+      "name": "goodsId",
+      "title": "商品ID",
+      "type": "String"
+    },
+    {
+      "name": "userId",
+      "title": "用户ID",
+      "type": "String"
+    },
+    {
+      "name": "userName",
+      "title": "用户名",
+      "type": "String"
+    },
+    {
+      "name": "content",
+      "title": "评论内容",
+      "type": "MultiLineString"
+    },
+    {
+      "name": "rating",
+      "title": "评分",
+      "type": "Number"
+    }
+  ]
+}
+  

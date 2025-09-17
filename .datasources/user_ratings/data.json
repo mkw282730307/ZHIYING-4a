@@ -1,0 +1,164 @@
+
+[
+  {
+    "_id": "rating_001",
+    "user_id": "user_001",
+    "goods_id": "goods_001",
+    "rating": 5,
+    "created_at": 1695206400000,
+    "updated_at": 1695206400000
+  },
+  {
+    "_id": "rating_002",
+    "user_id": "user_002",
+    "goods_id": "goods_001",
+    "rating": 5,
+    "created_at": 1695210000000,
+    "updated_at": 1695210000000
+  },
+  {
+    "_id": "rating_003",
+    "user_id": "user_003",
+    "goods_id": "goods_002",
+    "rating": 4,
+    "created_at": 1695120000000,
+    "updated_at": 1695120000000
+  },
+  {
+    "_id": "rating_004",
+    "user_id": "user_004",
+    "goods_id": "goods_003",
+    "rating": 5,
+    "created_at": 1695033600000,
+    "updated_at": 1695033600000
+  },
+  {
+    "_id": "rating_005",
+    "user_id": "user_005",
+    "goods_id": "goods_003",
+    "rating": 4,
+    "created_at": 1695037200000,
+    "updated_at": 1695037200000
+  },
+  {
+    "_id": "rating_006",
+    "user_id": "user_006",
+    "goods_id": "goods_003",
+    "rating": 5,
+    "created_at": 1695040800000,
+    "updated_at": 1695040800000
+  },
+  {
+    "_id": "rating_007",
+    "user_id": "user_007",
+    "goods_id": "goods_004",
+    "rating": 3,
+    "created_at": 1694868000000,
+    "updated_at": 1694868000000
+  },
+  {
+    "_id": "rating_008",
+    "user_id": "user_008",
+    "goods_id": "goods_004",
+    "rating": 4,
+    "created_at": 1694871600000,
+    "updated_at": 1694871600000
+  },
+  {
+    "_id": "rating_009",
+    "user_id": "user_009",
+    "goods_id": "goods_005",
+    "rating": 4,
+    "created_at": 1694781600000,
+    "updated_at": 1694781600000
+  },
+  {
+    "_id": "rating_010",
+    "user_id": "user_010",
+    "goods_id": "goods_005",
+    "rating": 5,
+    "created_at": 1694785200000,
+    "updated_at": 1694785200000
+  },
+  {
+    "_id": "rating_011",
+    "user_id": "user_011",
+    "goods_id": "goods_006",
+    "rating": 3,
+    "created_at": 1694695200000,
+    "updated_at": 1694695200000
+  },
+  {
+    "_id": "rating_012",
+    "user_id": "user_012",
+    "goods_id": "goods_006",
+    "rating": 4,
+    "created_at": 1694698800000,
+    "updated_at": 1694698800000
+  },
+  {
+    "_id": "rating_013",
+    "user_id": "user_013",
+    "goods_id": "goods_007",
+    "rating": 5,
+    "created_at": 1694688000000,
+    "updated_at": 1694688000000
+  },
+  {
+    "_id": "rating_014",
+    "user_id": "user_014",
+    "goods_id": "goods_007",
+    "rating": 4,
+    "created_at": 1694691600000,
+    "updated_at": 1694691600000
+  },
+  {
+    "_id": "rating_015",
+    "user_id": "user_015",
+    "goods_id": "goods_007",
+    "rating": 5,
+    "created_at": 1694695200000,
+    "updated_at": 1694695200000
+  },
+  {
+    "_id": "rating_016",
+    "user_id": "user_016",
+    "goods_id": "goods_008",
+    "rating": 5,
+    "created_at": 1694522400000,
+    "updated_at": 1694522400000
+  },
+  {
+    "_id": "rating_017",
+    "user_id": "user_017",
+    "goods_id": "goods_008",
+    "rating": 4,
+    "created_at": 1694526000000,
+    "updated_at": 1694526000000
+  },
+  {
+    "_id": "rating_018",
+    "user_id": "user_018",
+    "goods_id": "goods_008",
+    "rating": 5,
+    "created_at": 1694529600000,
+    "updated_at": 1694529600000
+  },
+  {
+    "_id": "rating_019",
+    "user_id": "user_019",
+    "goods_id": "goods_008",
+    "rating": 5,
+    "created_at": 1694533200000,
+    "updated_at": 1694533200000
+  },
+  {
+    "_id": "rating_020",
+    "user_id": "user_020",
+    "goods_id": "goods_008",
+    "rating": 4,
+    "created_at": 1694536800000,
+    "updated_at": 1694536800000
+  }
+]
+  

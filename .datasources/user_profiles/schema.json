@@ -1,0 +1,47 @@
+
+{
+  "name": "user_profiles",
+  "title": "用户资料",
+  "schemas": [
+    {
+      "name": "nickname",
+      "title": "昵称",
+      "type": "String"
+    },
+    {
+      "name": "avatar",
+      "title": "头像",
+      "type": "Image"
+    },
+    {
+      "name": "gender",
+      "title": "性别",
+      "type": "String"
+    },
+    {
+      "name": "birthday",
+      "title": "生日",
+      "type": "Date",
+      "format": "date"
+    },
+    {
+      "name": "bio",
+      "title": "个人简介",
+      "type": "MultiLineString"
+    },
+    {
+      "name": "region",
+      "title": "地区",
+      "type": "String"
+    },
+    {
+      "name": "interests",
+      "title": "兴趣标签",
+      "type": "Array",
+      "items": {
+        "type": "String"
+      }
+    }
+  ]
+}
+  

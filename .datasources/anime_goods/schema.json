@@ -1,0 +1,112 @@
+
+{
+  "name": "anime_goods",
+  "title": "动漫周边商品",
+  "schemas": [
+    {
+      "name": "name",
+      "title": "商品名称",
+      "type": "String"
+    },
+    {
+      "name": "image",
+      "title": "商品图片",
+      "type": "Image"
+    },
+    {
+      "name": "images",
+      "title": "商品图片集",
+      "type": "Array",
+      "items": {
+        "type": "Image"
+      }
+    },
+    {
+      "name": "price",
+      "title": "价格",
+      "type": "Number"
+    },
+    {
+      "name": "officialPrice",
+      "title": "官方售价",
+      "type": "Number"
+    },
+    {
+      "name": "currency",
+      "title": "货币",
+      "type": "String"
+    },
+    {
+      "name": "ip",
+      "title": "所属IP",
+      "type": "String"
+    },
+    {
+      "name": "characters",
+      "title": "相关角色",
+      "type": "Array",
+      "items": {
+        "type": "String"
+      }
+    },
+    {
+      "name": "category",
+      "title": "商品分类",
+      "type": "String"
+    },
+    {
+      "name": "description",
+      "title": "商品描述",
+      "type": "MultiLineString"
+    },
+    {
+      "name": "barcode",
+      "title": "商品条码",
+      "type": "String"
+    },
+    {
+      "name": "tags",
+      "title": "标签",
+      "type": "Array",
+      "items": {
+        "type": "String"
+      }
+    },
+    {
+      "name": "likes",
+      "title": "点赞数",
+      "type": "Number"
+    },
+    {
+      "name": "rating",
+      "title": "平均评分",
+      "type": "Number"
+    },
+    {
+      "name": "ratingCount",
+      "title": "评分人数",
+      "type": "Number"
+    },
+    {
+      "name": "status",
+      "title": "状态",
+      "type": "String"
+    },
+    {
+      "name": "sellerId",
+      "title": "卖家ID",
+      "type": "String"
+    },
+    {
+      "name": "sellerName",
+      "title": "卖家昵称",
+      "type": "String"
+    },
+    {
+      "name": "viewCount",
+      "title": "浏览量",
+      "type": "Number"
+    }
+  ]
+}
+  

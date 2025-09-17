@@ -1,0 +1,54 @@
+
+[
+  {
+    "_id": "comment_001",
+    "goodsId": "goods_001",
+    "userId": "user_001",
+    "userName": "初音厨",
+    "content": "手办做工非常精致，十周年限定版很有收藏价值！",
+    "rating": 5,
+    "createdAt": 1695206400000,
+    "updatedAt": 1695206400000
+  },
+  {
+    "_id": "comment_002",
+    "goodsId": "goods_001",
+    "userId": "user_002",
+    "userName": "手办控",
+    "content": "包装很完整，没有瑕疵，物流也很快",
+    "rating": 5,
+    "createdAt": 1695210000000,
+    "updatedAt": 1695210000000
+  },
+  {
+    "_id": "comment_003",
+    "goodsId": "goods_002",
+    "userId": "user_003",
+    "userName": "鬼灭粉",
+    "content": "日轮刀很帅气，发光效果很棒，就是有点重",
+    "rating": 4,
+    "createdAt": 1695120000000,
+    "updatedAt": 1695120000000
+  },
+  {
+    "_id": "comment_004",
+    "goodsId": "goods_003",
+    "userId": "user_004",
+    "userName": "利威尔后援会",
+    "content": "兵长太帅了！细节处理得很好，面部表情很还原",
+    "rating": 5,
+    "createdAt": 1695033600000,
+    "updatedAt": 1695033600000
+  },
+  {
+    "_id": "comment_005",
+    "goodsId": "goods_007",
+    "userId": "user_005",
+    "userName": "阿尼亚妈妈粉",
+    "content": "毛绒公仔超级可爱，抱着睡觉很舒服，质量也很好",
+    "rating": 5,
+    "createdAt": 1694688000000,
+    "updatedAt": 1694688000000
+  }
+]
+  

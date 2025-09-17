@@ -1,0 +1,23 @@
+
+{
+  "name": "user_ratings",
+  "title": "用户评分记录",
+  "schemas": [
+    {
+      "name": "user_id",
+      "title": "用户ID",
+      "type": "String"
+    },
+    {
+      "name": "goods_id",
+      "title": "商品ID",
+      "type": "String"
+    },
+    {
+      "name": "rating",
+      "title": "评分",
+      "type": "Number"
+    }
+  ]
+}
+  
